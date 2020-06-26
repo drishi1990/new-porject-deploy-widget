@@ -12,8 +12,8 @@ const BeforeAndAfter = loadable(() => import('../components/BeforeAndAfter'), {
 });
 
 const sanityConfig = {
-  projectId: 'PROJECT_ID',
-  dataset: 'DATASET_ID',
+  projectId: 'jgkf237b',
+  dataset: 'production',
 };
 
 export const blockTypeDefaultSerializers = {

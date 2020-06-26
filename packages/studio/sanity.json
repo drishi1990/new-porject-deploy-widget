@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "PROJECT_NAME"
+    "name": "new-porject-deploy-widget"
   },
   "api": {
-    "projectId": "PROJECT_ID",
-    "dataset": "DATASET_ID"
+    "projectId": "jgkf237b",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
